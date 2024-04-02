@@ -1,1 +1,3 @@
 Principal
+
+//este es el cuerp principal de la aplicación 
